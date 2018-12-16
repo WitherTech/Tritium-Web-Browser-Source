@@ -1,0 +1,12 @@
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\bin\Debug\Tritium.exe.config
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\bin\Debug\Tritium.exe
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\bin\Debug\Tritium.pdb
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\bin\Debug\Tritium.xml
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.vbprojAssemblyReference.cache
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.Form1.resources
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.Resources.resources
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.vbproj.GenerateResource.cache
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.vbproj.CoreCompileInputs.cache
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.exe
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.xml
+C:\Users\Witherking25\Desktop\Tritium Web Browser\Tritium\Tritium\obj\Debug\Tritium.pdb
